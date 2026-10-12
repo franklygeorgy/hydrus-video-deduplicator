@@ -31,7 +31,7 @@ dependencies = [
     "requests",
     # vpdqpy dependencies
     "pillow",
-    "av",
+    "av<=18.1.0",
     "hvdaccelerators>=0.4.0",
 ]
 
